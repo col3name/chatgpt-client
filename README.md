@@ -2,7 +2,8 @@
 ### Chatgpt client
 
 ### Token
-[https://platform.openai.com/](https://platform.openai.com/)
+can create token here
+[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 ### 
 ```go build main.go ```
 
